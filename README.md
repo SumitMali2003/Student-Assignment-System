@@ -153,3 +153,8 @@ New students can also register through the registration page.
 ## 👨‍💻 Author
 
 **Sumit Mali**
+
+## 🌐 Live Demo
+
+**Live Application:** https://flourishing-puffpuff-d67826.netlify.app
+Explore the application and experience the Admin and Student dashboards.
