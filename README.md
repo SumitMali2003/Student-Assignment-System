@@ -153,11 +153,3 @@ New students can also register through the registration page.
 ## 👨‍💻 Author
 
 **Sumit Mali**
-
-## 📄 License
-
-This project is developed as part of an assignment and learning exercise.
-
----
-
-**Joineazy – Learn Better. Manage Smarter.** 🎓
